@@ -1,5 +1,24 @@
-# ![Header Image](https://example.com/header-image.png)  
-**👋 Hello, I'm [Your Name]!**
+# <div align="center">
+    <img src="https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="Header Image" style="width:100%; max-width:1200px;">
+    <h1 style="font-size: 3em; margin: 0; display: flex; justify-content: center; align-items: center;">
+        <span style="animation: bounce 2s infinite;">👋</span> 
+        <span style="margin-left: 10px; animation: bounce 2s infinite;">Hello, I'm Rami Laribi!</span>
+    </h1>
+</div>
+
+<style>
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+</style>
 
 I am a **Mobile Developer** and **IT Engineer** passionate about creating innovative applications. Below, you'll find an overview of my skills, projects, and achievements.
 
@@ -72,9 +91,9 @@ Currently working on *Voltix*, focusing on user management, zone management, equ
 ---
 
 ## 📫 Let's Connect!
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🖥️ **GitHub**: [github.com/your-username](https://github.com/your-username)
+- 📧 **Email**: [laribi.rami@esprit.tn](mailto:laribi.rami@esprit.tn)
+- 💼 **LinkedIn**: [linkedin.com/in/rami-laribi](https://linkedin.com/in/rami-laribi)
+- 🖥️ **GitHub**: [github.com/ramilaribi](https://github.com/ramilaribi)
 
 ---
 
