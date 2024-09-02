@@ -3,7 +3,7 @@
 # 👋 **Hello, I'm Rami Laribi!**
 
 I'm a **Fullstack Software Engineer** 👨‍💻, **Mobile Developer** 📱, and **IT Engineer** 💻.  
-Welcome to my digital portfolio where technology meets innovation and creativity. Explore my projects, achievements, and skills, and let's connect to push the boundaries of what's possible in the world of tech!
+*Welcome to my digital portfolio where technology meets innovation and creativity. Explore my projects, achievements, and skills, and let's connect to push the boundaries of what's possible in the world of tech!*
 
 
 ## 🛠️ Skills & Technologies
@@ -29,8 +29,6 @@ Welcome to my digital portfolio where technology meets innovation and creativity
 ---
 ## 📊 GitHub Stats
 
-![Rami Laribi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramilaribi&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramilaribi&layout=compact&theme=tokyonight)
 
 ## 🏆 Achievements & Certifications
@@ -40,30 +38,6 @@ Welcome to my digital portfolio where technology meets innovation and creativity
 - 🥉 **4th Place - Tunisia Aptos Hackathon**: *Heritage Guardian* - AI, Blockchain, and AR Solution.
 - 📜 **Unity C# Mobile Game Dev Certificate**: [View Certificate](https://www.udemy.com/certificate/UC-8f09bf17-7c35-4bff-abe5-c5d82a5ff70b/)
 - 📜 **Certificate of Completion - Hashgraph Developer Course**
-
----
-
-## 🚀 Projects
-
-### **Cazador**
-![Cazador Logo](https://example.com/cazador-logo.png)
-
-An AI-driven mobile application for hunters that uses AI technology for real-time detection and localization of wild boar. Integrated with drone technology to provide accurate positioning on a map.
-
-### **Assurances Member Space**
-![Assurances Logo](https://example.com/mae-assurances-logo.png)
-
-Developed both front-end and back-end functionalities, including user management and integrations, using Flutter and Node.js.
-
-### **EcoPlay**
-![EcoPlay Logo](https://example.com/ecoplay-logo.png)
-
-Developed the backend and frontend for this academic project using Swift and Kotlin. Focused on sustainability and user engagement through gamified experiences.
-
-### **Voltix**
-![Voltix Logo](https://example.com/voltix-logo.png)
-
-Currently working on *Voltix*, focusing on user management, zone management, equipment management, notification and alert systems, and energy data management.
 
 ---
 
