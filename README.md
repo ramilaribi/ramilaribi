@@ -2,9 +2,9 @@
 
 # 👋 **Hello, I'm Rami Laribi!**
 
-I'm a fullstack Software Engineer 👨‍💻,Mobile Developer 📱, IT Engineer 💻 
-Welcome to my digital portfolio where technology meets innovation and creativity. Dive into my projects, achievements, and skills, and let's connect to push the boundaries of what's possible in the world of tech!
----
+I'm a **Fullstack Software Engineer** 👨‍💻, **Mobile Developer** 📱, and **IT Engineer** 💻.  
+Welcome to my digital portfolio where technology meets innovation and creativity. Explore my projects, achievements, and skills, and let's connect to push the boundaries of what's possible in the world of tech!
+
 
 ## 🛠️ Skills & Technologies
 
