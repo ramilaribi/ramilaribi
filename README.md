@@ -6,7 +6,6 @@ I am a **Mobile Developer** and **IT Engineer** passionate about creating innova
 
 ---
 
-
 ## 🛠️ Skills & Technologies
 
 ### **Programming Languages**
@@ -36,6 +35,7 @@ I am a **Mobile Developer** and **IT Engineer** passionate about creating innova
 - 🥇 **1st Place - Empower X-Hack**: *Smart Water Irrigation System* with Hedera Blockchain.
 - 🥉 **4th Place - Tunisia Aptos Hackathon**: *Heritage Guardian* - AI, Blockchain, and AR Solution.
 - 📜 **Unity C# Mobile Game Dev Certificate**: [View Certificate](https://www.udemy.com/certificate/UC-8f09bf17-7c35-4bff-abe5-c5d82a5ff70b/)
+- 📜 **Certificate of Completion - Hashgraph Developer Course**
 
 ---
 
