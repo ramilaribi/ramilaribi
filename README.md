@@ -2,8 +2,8 @@
 
 # 👋 **Hello, I'm Rami Laribi!**
 
-I am a **Mobile Developer** and **IT Engineer** passionate about creating innovative applications. Below, you'll find an overview of my skills, projects, and achievements.
-
+I'm a fullstack Software Engineer 👨‍💻,Mobile Developer 📱, IT Engineer 💻 
+Welcome to my digital portfolio where technology meets innovation and creativity. Dive into my projects, achievements, and skills, and let's connect to push the boundaries of what's possible in the world of tech!
 ---
 
 ## 🛠️ Skills & Technologies
