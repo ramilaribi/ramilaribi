@@ -27,6 +27,11 @@ I am a **Mobile Developer** and **IT Engineer** passionate about creating innova
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+
+![Rami Laribi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramilaribi&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramilaribi&layout=compact&theme=tokyonight)
 
 ## 🏆 Achievements & Certifications
 
