@@ -84,6 +84,7 @@ Currently working on *Voltix*, focusing on user management, zone management, equ
 - 📧 **Email**: [laribi.rami@esprit.tn](mailto:laribi.rami@esprit.tn)
 - 💼 **LinkedIn**: [linkedin.com/in/rami-laribi](https://linkedin.com/in/rami-laribi)
 
+![Contribution GIF Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ![Footer Image](https://example.com/footer-image.png)
