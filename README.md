@@ -44,7 +44,12 @@ I am a **Mobile Developer** and **IT Engineer** passionate about creating innova
 ### **Cazador**
 ![Cazador Logo](https://example.com/cazador-logo.png)
 
-An AI-driven mobile application for hunters that uses YOLO technology for real-time detection and localization of wild boar. Integrated with drone technology to provide accurate positioning on a map.
+An AI-driven mobile application for hunters that uses AI technology for real-time detection and localization of wild boar. Integrated with drone technology to provide accurate positioning on a map.
+
+### **Assurances Member Space**
+![Assurances Logo](https://example.com/mae-assurances-logo.png)
+
+Developed both front-end and back-end functionalities, including user management and integrations, using Flutter and Node.js.
 
 ### **EcoPlay**
 ![EcoPlay Logo](https://example.com/ecoplay-logo.png)
@@ -61,8 +66,6 @@ Currently working on *Voltix*, focusing on user management, zone management, equ
 ## 📚 My Learning Journey
 
 ### **Currently Learning**
-- **Advanced AI Models**: Improving my skills in object detection algorithms like YOLO.
-- **Testcontainers in Spring Boot**: Streamlining testing practices for backend applications.
 - **DevOps Practices**: Diving deeper into Docker and Kubernetes for CI/CD and deployment.
 
 ---
@@ -76,7 +79,6 @@ Currently working on *Voltix*, focusing on user management, zone management, equ
 ## 📫 Let's Connect!
 - 📧 **Email**: [laribi.rami@esprit.tn](mailto:laribi.rami@esprit.tn)
 - 💼 **LinkedIn**: [linkedin.com/in/rami-laribi](https://linkedin.com/in/rami-laribi)
-- 🖥️ **GitHub**: [github.com/ramilaribi](https://github.com/ramilaribi)
 
 ---
 
