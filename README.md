@@ -51,8 +51,8 @@ I'm a **Fullstack Software Engineer** 👨‍💻, **Mobile Developer** 📱, an
 ---
 
 ## 🌍 Languages
-- **French**: ![French](https://img.shields.io/badge/-French-0055A4?style=for-the-badge&logo=france&logoColor=white)
-- **English**: ![English](https://img.shields.io/badge/-English-0072C6?style=for-the-badge&logo=united-kingdom&logoColor=white)
+- ![French](https://img.shields.io/badge/-French-0055A4?style=for-the-badge&logo=france&logoColor=white)
+- ![English](https://img.shields.io/badge/-English-0072C6?style=for-the-badge&logo=united-kingdom&logoColor=black)
 
 ---
 
