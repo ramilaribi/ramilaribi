@@ -26,7 +26,6 @@ I'm a **Fullstack Software Engineer** 👨‍💻, **Mobile Developer** 📱, an
 ### **Testing & CI/CD**
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/-Mockito-000000?style=for-the-badge&logo=mockito&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 ## 📊 GitHub Stats
