@@ -27,7 +27,14 @@ I'm a **Fullstack Software Engineer** 👨‍💻, **Mobile Developer** 📱, an
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/-Mockito-000000?style=for-the-badge&logo=mockito&logoColor=white)
 
+### **CI/CD Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4EAA25?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Nexus](https://img.shields.io/badge/-Nexus-0E77B0?style=for-the-badge&logo=nexus&logoColor=white)
+
 ---
+
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramilaribi&layout=compact&theme=tokyonight)
