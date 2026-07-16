@@ -143,9 +143,6 @@ Architecture              Clean Architecture, BLoC/Cubit, modular codebases
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ramilaribi&theme=tokyonight&hide_border=true" alt="Rami Laribi GitHub streak" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramilaribi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Rami Laribi GitHub contribution activity graph" />
-</div>
 
 ---
 
