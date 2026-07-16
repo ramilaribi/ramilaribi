@@ -132,18 +132,6 @@ Reliable delivery         CI/CD, Docker, Firebase, Crashlytics, production debug
 Architecture              Clean Architecture, BLoC/Cubit, modular codebases
 ```
 
-## GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramilaribi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rami Laribi GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramilaribi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Rami Laribi top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramilaribi&theme=tokyonight&hide_border=true" alt="Rami Laribi GitHub streak" />
-</div>
-
-
 ---
 
 <div align="center">
