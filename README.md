@@ -1,72 +1,165 @@
-# ![Header Image](https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,55:0E7490,100:14B8A6&text=Rami%20Laribi&fontAlign=50&fontAlignY=38&fontColor=F8FAFC&fontSize=58&desc=Mobile%20Engineer%20%7C%20Flutter%20%C2%B7%20Kotlin%20%C2%B7%20Spring%20Boot&descAlign=50&descAlignY=58&descSize=20&animation=fadeIn" alt="Rami Laribi profile banner" />
+</div>
 
-<h1 align="center">👋 Hello, I'm Rami Laribi!</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2400&pause=700&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+mobile+apps+from+architecture+to+production;Flutter+%7C+Kotlin+%7C+Java%2FSpring+Boot;Firebase+%7C+REST+APIs+%7C+SQLite+%7C+CI%2FCD;Open+to+remote+and+relocation+opportunities" alt="Typing animation with Rami Laribi profile focus" />
+</div>
 
-I'm a **Fullstack Software Engineer** 👨‍💻, **Mobile Developer** 📱, and **IT Engineer** 💻.  
-*Welcome to my digital portfolio where technology meets innovation and creativity. Explore my projects, achievements, and skills, and let's connect to push the boundaries of what's possible in the world of tech!*
+<p align="center">
+  <a href="mailto:rami.laribi98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rami.laribi98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/rami-laribi-553828275/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rami%20Laribi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+  <a href="https://github.com/ramilaribi">
+    <img src="https://img.shields.io/badge/GitHub-ramilaribi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  </a>
+</p>
 
-
-## 🛠️ Skills & Technologies
-
-### **Programming Languages**
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### **Frameworks & Tools**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### **Testing & CI/CD**
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/-Mockito-000000?style=for-the-badge&logo=mockito&logoColor=white)
-![TestContainers](https://img.shields.io/badge/-TestContainers-000000?style=for-the-badge&logo=testing&logoColor=white)
-
-### **CI/CD Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4EAA25?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Nexus](https://img.shields.io/badge/-Nexus-0E77B0?style=for-the-badge&logo=nexus&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramilaribi&style=for-the-badge&color=14b8a6" alt="Profile views counter" />
+  <img src="https://img.shields.io/badge/Location-Tunis%2C%20Tunisia-0F766E?style=for-the-badge" alt="Location badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20remote%20%2F%20relocation-2563EB?style=for-the-badge" alt="Open to opportunities badge" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## Profile
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramilaribi&layout=compact&theme=tokyonight)
+I am a **Mobile Software Engineer** focused on building reliable mobile products with **Flutter**, **Kotlin**, and **Java/Spring Boot**.
 
-## 🏆 Achievements & Certifications
+My work covers the full product cycle: mobile architecture, API integration, Firebase, local storage, offline flows, debugging, automated builds, CI/CD, deployment pipelines, and production follow-up.
 
-- 🥇 **1st Place - 'Bal de Projet'**: *Cazador* - AI & Drone-Enhanced Hunting Solution.
-- 🥇 **1st Place - Empower X-Hack**: *Smart Water Irrigation System* with Hedera Blockchain.
-- 🥉 **4th Place - Tunisia Aptos Hackathon**: *Heritage Guardian* - AI, Blockchain, and AR Solution.
-- 📜 **Unity C# Mobile Game Dev Certificate**: [View Certificate](https://www.udemy.com/certificate/UC-8f09bf17-7c35-4bff-abe5-c5d82a5ff70b/)
-- 📜 **Certificate of Completion - Hashgraph Developer Course**
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Mobile Apps</h3>
+      <p>Flutter, Dart, Kotlin, Clean Architecture, BLoC/Cubit, Provider, GetX, AutoRoute, Android/iOS releases.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Backend APIs</h3>
+      <p>Java 17/21, Spring Boot 3, Spring Security, WebFlux, Node.js, Express, REST APIs, JWT, OpenAPI/Swagger.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Production Delivery</h3>
+      <p>Firebase, SQLite/Drift, PostgreSQL, MongoDB, Redis, Docker, GitHub Actions, GitLab CI, Jenkins, AWS, OVH.</p>
+    </td>
+  </tr>
+</table>
+
+## Tech Stack
+
+<div align="center">
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Data and DevOps
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+</div>
+
+## Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Flutter Production Apps</h3>
+      <ul>
+        <li>Built customer and driver mobile apps with Clean Architecture and BLoC.</li>
+        <li>Integrated Firebase Auth, Firestore, FCM, Google Maps real-time tracking, and Stripe payments.</li>
+        <li>Prepared Android/iOS release flows and production follow-up.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Delivery Ecosystem</h3>
+      <ul>
+        <li>Worked on customer, restaurant, courier, and Sunmi POS applications.</li>
+        <li>Implemented GPS missions, offline queues, AutoRoute/BLoC flows, and native V2S printing.</li>
+        <li>Connected mobile apps with Spring Boot WebFlux, MongoDB, Redis, and JWT services.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>POS and Restaurant Workflows</h3>
+      <ul>
+        <li>Delivered a Flutter desktop POS for macOS/Windows with SQLite/Drift local storage.</li>
+        <li>Worked on signed receipts, offline fiscal queue, split payments, Z-report, and ESC/POS printing.</li>
+        <li>Built dashboard and KDS workflows with analytics and STOMP/WebSocket synchronization.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Kotlin and Awarded Project</h3>
+      <ul>
+        <li>Built a Kotlin mobile app for Cazador, a drone-tracking and real-time alert project.</li>
+        <li>Contributed to the Node.js backend and Unity/C# VR simulator workflow.</li>
+        <li>1st place at ESPRIT Project Showcase and Empower X-Hack.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## Current Focus
+
+```text
+Mobile engineering        Flutter, Kotlin, Android/iOS releases
+Backend integration       Java/Spring Boot, Node.js, REST APIs, JWT
+Reliable delivery         CI/CD, Docker, Firebase, Crashlytics, production debugging
+Architecture              Clean Architecture, BLoC/Cubit, modular codebases
+```
+
+## GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramilaribi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rami Laribi GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramilaribi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Rami Laribi top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramilaribi&theme=tokyonight&hide_border=true" alt="Rami Laribi GitHub streak" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramilaribi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Rami Laribi GitHub contribution activity graph" />
+</div>
 
 ---
 
-## 📚 My Learning Journey
+<div align="center">
+  <strong>Open to Mobile Software Engineer, Flutter, Android/Kotlin, and Full-Stack Mobile roles.</strong>
+  <br />
+  <br />
+  <a href="mailto:rami.laribi98@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/rami-laribi-553828275/">LinkedIn</a>
+  ·
+  <a href="https://github.com/ramilaribi">GitHub</a>
+</div>
 
-### **Currently Learning**
-- **DevOps Practices**: Diving deeper into Docker and Kubernetes for CI/CD and deployment.
-
----
-
-## 🌍 Languages
-- ![French](https://img.shields.io/badge/-French-0055A4?style=for-the-badge&logo=france&logoColor=white)
-- ![English](https://img.shields.io/badge/-English-0072C6?style=for-the-badge&logo=united-kingdom&logoColor=black)
-
----
-
-## 📫 Let's Connect!
-- 📧 **Email**: [laribi.rami@esprit.tn](mailto:laribi.rami@esprit.tn)
-- 💼 **LinkedIn**: [linkedin.com/in/rami-laribi](https://linkedin.com/in/rami-laribi)
-
-![Contribution GIF Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,100:0F172A" alt="Footer wave" />
+</div>
